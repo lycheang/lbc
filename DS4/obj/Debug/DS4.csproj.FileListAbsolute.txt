@@ -1,0 +1,7 @@
+C:\Users\LBC\source\repos\DS4\bin\Debug\DS4.exe.config
+C:\Users\LBC\source\repos\DS4\bin\Debug\DS4.exe
+C:\Users\LBC\source\repos\DS4\bin\Debug\DS4.pdb
+C:\Users\LBC\source\repos\DS4\obj\Debug\DS4.csproj.AssemblyReference.cache
+C:\Users\LBC\source\repos\DS4\obj\Debug\DS4.csproj.CoreCompileInputs.cache
+C:\Users\LBC\source\repos\DS4\obj\Debug\DS4.exe
+C:\Users\LBC\source\repos\DS4\obj\Debug\DS4.pdb
